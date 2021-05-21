@@ -20,6 +20,7 @@ console.log(info.player) //Get server player amount
 console.log(info.port) //Get server port
 console.log(info.version) //Get server version
 console.log(info.password) //Get server password
+console.log(info.maxplayers) //Get server max player amount
 })
  ```
 
