@@ -12,7 +12,7 @@
 ```
 const SykoCoder = require("mta-server-info");
 
-info.getInfo("Server ip").then((info) => {
+SykoCoder.getInfo("Server ip").then((info) => {
 
 console.log(info) // Get server all info
 console.log(info.name) //Get server name
